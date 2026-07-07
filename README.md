@@ -15,6 +15,10 @@ A simple Python Password Generator that creates secure passwords using random le
 1. Run `password generator.py`
 2. Enter the required number of letters, numbers, and symbols.
 3. The program generates a random password.
+4. 
+## Screenshot
+![Password Generator Output]
+(screenshot.png)
 
 ## Author
 N. Thanish Goud
